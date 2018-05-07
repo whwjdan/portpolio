@@ -4,12 +4,12 @@
 * 개발언어
   * JAVA
   * JSP
-  * 
-  * PYTHON
+  * PYTHON
   
 * Database
   * Mysql
   * ORACLE DB
+  
 * 빅데이터 및 클라우드
   * SPSS, SAS, R
-  * AWS
+  * AWS
