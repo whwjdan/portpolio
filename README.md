@@ -14,9 +14,9 @@
 ---------------------------------------
 ### 주요 활동
 ###### 2016년
-한국 정보화 진흥원 주최 우즈베키스탄 IT 봉사단 파견
-https://github.com/whwjdan/IT-volunteer-Project
-수행 프로젝트 코드
+한국 정보화 진흥원 주최 우즈베키스탄 IT 봉사단 파견<BR>
+https://github.com/whwjdan/IT-volunteer-Project<BR>
+수행 프로젝트 코드<BR>
 
 ###### 2017
 빅데이터 프로젝트 중 인스타그램 및 네이버 카페 크롤링
