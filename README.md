@@ -20,3 +20,7 @@
 빅데이터 프로젝트 중 인스타그램 및 네이버 카페 크롤링
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/35955189/39695411-6b9a8478-5225-11e8-8165-e229a7f42e78.gif)<BR>
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/35955189/41330318-bc2a6c6e-6f0d-11e8-89f4-1a02f54459c2.gif)<BR>
+ 
+ ###### 현재
+ aws ec-2, PYTHON django로 플러스친구 연동 및 세팅
+ Spring 및 알고리즘 
