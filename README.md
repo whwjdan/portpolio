@@ -37,5 +37,4 @@ https://www.slideshare.net/secret/7TDYWalZLs01<BR>
  
  ###### 2018
  aws ec-2에 PYTHON django로 플러스친구 연동 및 세팅 테스트<BR>
- 앱 및 웹 개발 분야 관심 및 Kotlin을 공부하고 있습니다.<BR>
  https://github.com/whwjdan/awsChatbot
