@@ -25,6 +25,7 @@ https://github.com/whwjdan/IT-volunteer-Project<BR>
 
 ###### 2017
 R 크롤링 및 SAS를 통한 영어 호텔 리뷰를 바탕으로 평점 예측 프로젝트
+https://www.slideshare.net/secret/7TDYWalZLs01
 
 빅데이터 프로젝트 중 인스타그램 및 네이버 카페 크롤링
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/35955189/39695411-6b9a8478-5225-11e8-8165-e229a7f42e78.gif)<BR>
