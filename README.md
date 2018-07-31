@@ -37,4 +37,6 @@ https://www.slideshare.net/secret/7TDYWalZLs01<BR>
  
  ###### 2018
  aws ec-2에 PYTHON django로 플러스친구 연동 및 세팅 테스트<BR>
- https://github.com/whwjdan/awsChatbot
+ https://github.com/whwjdan/awsChatbot<BR>
+ ![aws](https://user-images.githubusercontent.com/35955189/43477336-dcebea56-9535-11e8-9309-70d6891de2e4.PNG)
+
