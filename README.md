@@ -34,6 +34,7 @@ https://www.slideshare.net/secret/7TDYWalZLs01<BR>
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/35955189/41330318-bc2a6c6e-6f0d-11e8-89f4-1a02f54459c2.gif)<BR>
  크롤링 데이터 AWS S3 버킷 연동 및 R을 통한 텍스트 마이닝 분석<BR>
  https://github.com/whwjdan/R-project<BR>
+ https://www.slideshare.net/secret/fJHKSkEQWgI7rd<BR>
  
  ###### 2018
  aws ec-2에 PYTHON django로 플러스친구 연동 및 세팅 테스트<BR>
