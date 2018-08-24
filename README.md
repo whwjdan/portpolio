@@ -20,7 +20,7 @@
 
 ###### 2016년
 한국 정보화 진흥원 주최 우즈베키스탄 IT 봉사단 파견<BR>
-BootStrap, java, jsp, mysql, tomcat 사용 전자 도서관 구현<BR>
+BootStrap, java, jsp, mysql, tomcat 사용 전자 도서관 사용자 페이지, 관리자 페이지 구현<BR>
 https://github.com/whwjdan/IT-volunteer-Project<BR>
 수행 프로젝트 코드<BR>
 
