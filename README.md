@@ -34,6 +34,9 @@ https://www.slideshare.net/secret/7TDYWalZLs01<BR>
  청년취업아카데미 빅데이터 DB 분석 전문가 교육 수료
  한국생산성 본부 및 오라클 주관, ORACLE DB 및 자바, 자료구조, R 및 PYTHON 
  
+ 네이버 API를 사용하지 않고 카페명과 게시판 번호에 따른 페이지 별 게시글 제목 및 댓글 등 크롤링 코드를 만들어
+ 팀원들에게 배포 및 데이터 수집, 시각화
+ 
  빅데이터 프로젝트 중 인스타그램 및 네이버 카페 크롤링<BR>
  https://github.com/whwjdan/python<BR>
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/35955189/39695411-6b9a8478-5225-11e8-8165-e229a7f42e78.gif)<BR>
